@@ -21,7 +21,6 @@ I specialize in creating responsive and visually appealing user interfaces. With
 - Expanding my skillset in *React, JavaScript, HTML, CSS, and Java*
 - Building responsive web applications with modern frameworks
 
-## 📊 GitHub Stats
 
 </td>
 <td width="50%" align="center">
