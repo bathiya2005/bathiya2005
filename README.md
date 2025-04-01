@@ -21,7 +21,7 @@ I specialize in creating responsive and visually appealing user interfaces. With
 - Expanding my skillset in *React, JavaScript, HTML, CSS, and Java*
 - Building responsive web applications with modern frameworks
 
-## 💼 Skills
+## 📊 GitHub Stats
 
 </td>
 <td width="50%" align="center">
@@ -66,11 +66,6 @@ I specialize in creating responsive and visually appealing user interfaces. With
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
 
-## 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=bathiya2005&show_icons=true&theme=tokyonight)](https://github.com/bathiya2005)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathiya2005&layout=compact&theme=tokyonight)](https://github.com/bathiya2005)
 
 ## 🔗 Connect With Me
 
