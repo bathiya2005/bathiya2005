@@ -4,10 +4,10 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bathiya2005&label=Profile%20views&color=0e75b6&style=flat" alt="bathiya2005" /> </p>
 
-| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=bathiya2005&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bathiya2005&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathiya2005&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=bathiya2005&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
 
 # Bathiya Nethsara
 
@@ -22,6 +22,24 @@ I specialize in creating responsive and visually appealing user interfaces. With
 - Building responsive web applications with modern frameworks
 
 ## 💼 Skills
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+
+
+| ![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=bathiya2005&show_icons=true&theme=tokyonight) | ![Aditya GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bathiya2005&theme=tokyonight) |
+| --- | --- |
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bathiya2005&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=bathiya2005&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
+
+
 
 ### Languages
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -68,5 +86,5 @@ Check out my [portfolio](https://bathiya2005.github.io/Bathiya-Nethsara.lk/) for
 <!-- Feel free to add more sections like:
 - 🏆 Achievements
 - 📝 Latest Blog Posts
-- 📚 Current Learning Journey
+- 📚 Current Learning Journey
 -->
