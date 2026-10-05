@@ -137,8 +137,7 @@ const developer = {
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=bathiya2005&label=Profile%20Views&color=FF0000&style=for-the-badge)
-
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=bathiya2005&label=Profile%20Views&labelColor=%23555555&countColor=%23FF0000&style=for-the-badge)
 </div>
 
 ---
